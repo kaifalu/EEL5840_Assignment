@@ -6,15 +6,15 @@ def assignment00():
 	 	Submit your assignment as described in class by pushing to github. 
 	''' 
 	vals = dict(
-	name = 'your name',
-	username = 'your github username',
-	level = 'freshman/sophomore/junior/senior/masters/PhD',
-	major = 'your major',
-	programming_exp = 'none/some/extensive',
-	python_exp = 'none/some/extensive',
-	git_exp = 'none/some/extensive',
-	ml_exp = 'none/some/extensive',
-	topics = 'topics you are excited to learn in this class',
+	name = 'Kaifa Lu',
+	username = 'kaifalu917',
+	level = 'PhD',
+	major = 'Architectural and Building Sciences/Technology',
+	programming_exp = 'some',
+	python_exp = 'extensive',
+	git_exp = 'none',
+	ml_exp = 'some',
+	topics = 'Classification and Regression',
 	)
 
 	print(f'My name is: {vals["name"]}')
