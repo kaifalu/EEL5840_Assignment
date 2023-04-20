@@ -2,15 +2,15 @@ import assignment00
 
 def test_assignment00():
 	default_vals = dict(
-	name = 'your name',
-	username = 'your github username',
-	level = 'freshman/sophomore/junior/senior/masters/PhD',
-	major = 'your major',
-	programming_exp = 'none/some/extensive',
-	python_exp = 'none/some/extensive',
-	git_exp = 'none/some/extensive',
-	ml_exp = 'none/some/extensive',
-	topics = 'topics you are excited to learn in this class',
+	name = 'Kaifa Lu',
+	username = 'kaifalu917',
+	level = 'PhD',
+	major = 'Urban and Regional Planning',
+	programming_exp = 'some',
+	python_exp = 'extensive',
+	git_exp = 'none',
+	ml_exp = 'some',
+	topics = 'Classification and Regression',
 	)
 	out = assignment00.assignment00()
 	for k,v in default_vals.items():

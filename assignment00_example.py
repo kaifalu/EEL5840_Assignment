@@ -9,7 +9,7 @@ def assignment00():
 	name = 'Kaifa Lu',
 	username = 'kaifalu917',
 	level = 'PhD',
-	major = 'Urban and Regional Planning',
+	major = 'Architectural and Building Sciences/Technology',
 	programming_exp = 'some',
 	python_exp = 'extensive',
 	git_exp = 'none',
